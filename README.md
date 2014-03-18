@@ -4,8 +4,6 @@
 
 Game performed on 15x15 board step by step. After each step every character have to make a move.
 
-### Game characters and objects ###
-
 ### Column ###
 Column located in (7, 7) cell. Column does not move.
 
@@ -38,7 +36,7 @@ he come out from the police station and try to deliver drunkard to the prison (w
 Glass point located in (14, 4) cell.
 
 ### Hobo ###
-In the beginning hobo is located in the glass point. On first move he coming out and start collecting bottles.
+In the beginning hobo located in the glass point. On first move he coming out and start collecting bottles.
 When hobo finds a bottle he is trying to cell it in the glass point (of course he must deliver a bottle to the glass point before selling it). 
 When bottle is sold hobo leaves the board for 40 moves.
 
